@@ -1,5 +1,5 @@
 # bootstrap
-ilk bootstrap çalışması
+ilk bootstrap çalışması (https://www.patika.dev/)
 
 MÜZİK DÜKKANIM
 
